@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
+subtitle: mboton dev
 date: '2021-09-07'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
