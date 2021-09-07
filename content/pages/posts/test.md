@@ -4,7 +4,7 @@ subtitle: mboton dev
 date: '2021-09-07'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
-hide_header: true
+hide_header: false
 seo:
   title: ''
   description: ''
