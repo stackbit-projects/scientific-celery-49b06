@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+content_img_path: /images/OIP.jpg
 ---
 ## Lorem ipsum
 
